@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "react_native",
-    "slug": "react_native"
+    "slug": "react_native",
+    "extra": {
+      "eas": {
+        "projectId": "77594ca4-7f6c-4d7d-9b26-da0b697b6845"
+      }
+    },
+    "android": {
+      "package": "com.depressedcoder.react_native"
+    }
   }
 }
